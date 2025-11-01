@@ -1,5 +1,4 @@
-name = "kty-website-static"
-compatibility_date = "2025-10-31"
-
-pages_build_output_dir = "dist"
-
+[site]
+bucket = "./dist"
+include = []
+exclude = []
