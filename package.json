@@ -1,0 +1,8 @@
+{
+  "name": "kty-website-static",
+  "version": "1.0.0",
+  "scripts": {
+    "build": ""
+  }
+}
+
